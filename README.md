@@ -1,8 +1,5 @@
-Absolutely. Since this project is specifically for **learning FastAPI + SQLAlchemy + MySQL + CRUD with a layered architecture**, your README should explain not only *what* the code does, but **why each layer exists and how a request travels through the application**.
 
-Below is a complete `README.md` you can copy directly into your project.
 
-````markdown
 # FastAPI CRUD API
 
 A learning project for building a RESTful CRUD API using:
