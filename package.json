@@ -1,0 +1,26 @@
+{
+  "name": "py",
+  "version": "1.0.0",
+  "description": "Absolutely. Since this project is specifically for **learning FastAPI + SQLAlchemy + MySQL + CRUD with a layered architecture**, your README should explain not only *what* the code does, but **why each layer exists and how a request travels through the application**.",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibm/fastapi_crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shibm/fastapi_crud/issues"
+  },
+  "homepage": "https://github.com/shibm/fastapi_crud#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "cheerio": "^1.2.0",
+    "nodemon": "^3.1.14"
+  }
+}
